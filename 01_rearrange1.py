@@ -5,4 +5,4 @@ def rearrange_name(name):
 		return result
 
 	return "{} {}".format(result[2], result[1])
-print('checking')
+print('checking 1000')
